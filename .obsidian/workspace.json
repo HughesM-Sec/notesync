@@ -11,10 +11,8 @@
             "id": "0fef56ebf66431da",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "ScreenGrabs/Pasted image 20240724210235.png"
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -83,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ScreenGrabs/Pasted image 20240724210235.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ScreenGrabs/Pasted image 20240724210235.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "ScreenGrabs/Pasted image 20240724210235.png"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,8 +140,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a8509b1d94994fb7",
+  "active": "0fef56ebf66431da",
   "lastOpenFiles": [
+    "Computers/Cybersecurity/Web Hacking/Web Hacking.md",
+    "Computers/Cybersecurity/Web Hacking/Command Injection.md",
+    "Computers/Cybersecurity/Web Hacking/File Inclusion.md",
+    "Computers/Cybersecurity/Linux/Linux Privilege Escalation/Sudo/Sudo.md",
+    "Computers/Cybersecurity/Linux/Linux Privilege Escalation/Sudo/Environment Variables.md",
+    "Computers/Cybersecurity/Linux/Linux Privilege Escalation/SUID SGID EXEC/Environment Variables.md",
+    "Computers/Cybersecurity/Linux/Linux Privilege Escalation/SUID SGID EXEC/SUID SGID EXEC.md",
+    "ScreenGrabs/Pasted image 20240724210235.png",
     "Untitled.canvas",
     "Computers/Computers.md",
     "Computers/Cybersecurity/Tools/Recon/Active/Nmap.md",
@@ -156,12 +158,9 @@
     "Computers/Cybersecurity/Tools/Recon/Active/Gobuster.md",
     "Computers/Cybersecurity/Tools/Recon/Active/Active.md",
     "Computers/Cybersecurity/Linux/Linux Privilege Escalation/Service Exploits.md",
-    "Computers/Cybersecurity/Linux/Linux Privilege Escalation/Sudo/Environment Variables.md",
     "Computers/Cybersecurity/Linux/Linux Privilege Escalation/SUID SGID EXEC/Abusing Shell Features.md",
-    "Computers/Cybersecurity/Linux/Linux Privilege Escalation/SUID SGID EXEC/SUID SGID EXEC.md",
     "Computers/Cybersecurity/Linux/Linux Privilege Escalation/SUID SGID EXEC/Exec.md",
     "ScreenGrabs/Pasted image 20240802145333.png",
-    "Computers/Cybersecurity/Linux/Linux Privilege Escalation/SUID SGID EXEC/Environment Variables.md",
     "Computers/Cybersecurity/Linux/Linux Privilege Escalation/SUID SGID EXEC/Shared Object Injection.md",
     "Computers/Cybersecurity/Tools/Recon/Recon.md",
     "ScreenGrabs/Pasted image 20240802145304.png",
@@ -178,13 +177,9 @@
     "Computers/Cybersecurity/Linux/Linux Privilege Escalation/Kernel Exploits.md",
     "Computers/Cybersecurity/Tools/Tools.md",
     "Computers/Cybersecurity/Tools/Metasploit/Metasploit DB.md",
-    "ScreenGrabs/Pasted image 20240725125210.png",
-    "Computers/Cybersecurity/Web Hacking/Command Injection.md",
     "Computers/Cybersecurity/Web Hacking/Command Injection/Untitled.md",
     "Computers/Cybersecurity/Web Hacking/XSS/Intro to XSS.md",
     "Computers/Cybersecurity/Web Hacking/Command Injection",
-    "Computers/Cybersecurity/Web Hacking/Web Hacking.md",
-    "Computers/Cybersecurity/Web Hacking/SSRF/SSRF.md",
     "Computers/Cybersecurity/Web Hacking/XSS",
     "Computers/Cybersecurity/Web Hacking/SSRF",
     "Computers/Cybersecurity/Web Hacking",

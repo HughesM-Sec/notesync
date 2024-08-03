@@ -1,5 +1,7 @@
 [[Content Discovery]]
 [[IDOR]]
+[[File Inclusion]]
+[[Command Injection]]
 
 
 ## [[SSRF]]
