@@ -1,0 +1,198 @@
+{
+  "main": {
+    "id": "9d895a414dfcf14b",
+    "type": "split",
+    "children": [
+      {
+        "id": "27b9f0e5a7b2ddfa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0fef56ebf66431da",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "ScreenGrabs/Pasted image 20240724210235.png"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "57d09e50ae29a006",
+    "type": "split",
+    "children": [
+      {
+        "id": "3b6a48e9f6d25b12",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a8509b1d94994fb7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cc2910d32f04a688",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c8caa37bfdb206b5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "371d644a1eaff436",
+    "type": "split",
+    "children": [
+      {
+        "id": "4f0b554f1d6d04ac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a50541085abed609",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ScreenGrabs/Pasted image 20240724210235.png",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9ecfb0e4abc2e5ef",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ScreenGrabs/Pasted image 20240724210235.png",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "282bc6108722ef91",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "618f347c55444e45",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ScreenGrabs/Pasted image 20240724210235.png"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "command-palette:Open command palette": false,
+      "templates:Insert template": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "a8509b1d94994fb7",
+  "lastOpenFiles": [
+    "Untitled.canvas",
+    "Computers/Computers.md",
+    "Computers/Cybersecurity/Tools/Recon/Active/Nmap.md",
+    "Computers/Cybersecurity/Tools/Cracking/John The Ripper.md",
+    "2024-08-02.md",
+    "Computers/Cybersecurity/Tools/Recon/Active/Gobuster.md",
+    "Computers/Cybersecurity/Tools/Recon/Active/Active.md",
+    "Computers/Cybersecurity/Linux/Linux Privilege Escalation/Service Exploits.md",
+    "Computers/Cybersecurity/Linux/Linux Privilege Escalation/Sudo/Environment Variables.md",
+    "Computers/Cybersecurity/Linux/Linux Privilege Escalation/SUID SGID EXEC/Abusing Shell Features.md",
+    "Computers/Cybersecurity/Linux/Linux Privilege Escalation/SUID SGID EXEC/SUID SGID EXEC.md",
+    "Computers/Cybersecurity/Linux/Linux Privilege Escalation/SUID SGID EXEC/Exec.md",
+    "ScreenGrabs/Pasted image 20240802145333.png",
+    "Computers/Cybersecurity/Linux/Linux Privilege Escalation/SUID SGID EXEC/Environment Variables.md",
+    "Computers/Cybersecurity/Linux/Linux Privilege Escalation/SUID SGID EXEC/Shared Object Injection.md",
+    "Computers/Cybersecurity/Tools/Recon/Recon.md",
+    "ScreenGrabs/Pasted image 20240802145304.png",
+    "Computers/Cybersecurity/Linux/Linux Privilege Escalation/Shells.md",
+    "ScreenGrabs/Pasted image 20240802145230.png",
+    "ScreenGrabs/Pasted image 20240802145225.png",
+    "ScreenGrabs/Pasted image 20240802145217.png",
+    "ScreenGrabs/Pasted image 20240802145145.png",
+    "ScreenGrabs/Pasted image 20240802145118.png",
+    "ScreenGrabs/Pasted image 20240802145112.png",
+    "ScreenGrabs/Pasted image 20240802145104.png",
+    "Computers/Cybersecurity/Linux/Linux Privilege Escalation/NFS.md",
+    "Computers/Cybersecurity/Linux/Linux Privilege Escalation/Linux Privilege Escalation.md",
+    "Computers/Cybersecurity/Linux/Linux Privilege Escalation/Kernel Exploits.md",
+    "Computers/Cybersecurity/Tools/Tools.md",
+    "Computers/Cybersecurity/Tools/Metasploit/Metasploit DB.md",
+    "ScreenGrabs/Pasted image 20240725125210.png",
+    "Computers/Cybersecurity/Web Hacking/Command Injection.md",
+    "Computers/Cybersecurity/Web Hacking/Command Injection/Untitled.md",
+    "Computers/Cybersecurity/Web Hacking/XSS/Intro to XSS.md",
+    "Computers/Cybersecurity/Web Hacking/Command Injection",
+    "Computers/Cybersecurity/Web Hacking/Web Hacking.md",
+    "Computers/Cybersecurity/Web Hacking/SSRF/SSRF.md",
+    "Computers/Cybersecurity/Web Hacking/XSS",
+    "Computers/Cybersecurity/Web Hacking/SSRF",
+    "Computers/Cybersecurity/Web Hacking",
+    "Computers/Cybersecurity/Security Principles/Untitled",
+    "Computers/Cybersecurity/Security Principles",
+    "Computers/Programming Languages/Python/Python Projects",
+    "Computers",
+    "ScreenGrabs",
+    "Cybersecurity/macOS/Untitled"
+  ]
+}

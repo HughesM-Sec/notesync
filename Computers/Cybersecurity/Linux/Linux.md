@@ -1,0 +1,6 @@
+
+
+### [[Linux Privilege Escalation]]
+
+### [[Methodology]]
+
