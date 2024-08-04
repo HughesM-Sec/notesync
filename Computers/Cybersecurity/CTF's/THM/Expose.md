@@ -106,3 +106,36 @@ Finished
 ## admin_101
 
 ![[Pasted image 20240803232900.png]]
+
+# gobuster /admin_101
+
+```shell-session
+┌──(kali㉿kali)-[~]
+└─$ gobuster dir -u http://10.10.141.108:1337/admin_101 -w /usr/share/wordlists/dirb/big.txt
+===============================================================
+Gobuster v3.6
+by OJ Reeves (@TheColonial) & Christian Mehlmauer (@firefart)
+===============================================================
+[+] Url:                     http://10.10.141.108:1337/admin_101
+[+] Method:                  GET
+[+] Threads:                 10
+[+] Wordlist:                /usr/share/wordlists/dirb/big.txt
+[+] Negative Status codes:   404
+[+] User Agent:              gobuster/3.6
+[+] Timeout:                 10s
+===============================================================
+Starting gobuster in directory enumeration mode
+===============================================================
+/.htaccess            (Status: 403) [Size: 280]
+/.htpasswd            (Status: 403) [Size: 280]
+/assets               (Status: 301) [Size: 332] [--> http://10.10.141.108:1337/admin_101/assets/]
+/includes             (Status: 301) [Size: 334] [--> http://10.10.141.108:1337/admin_101/includes/]
+/modules              (Status: 301) [Size: 333] [--> http://10.10.141.108:1337/admin_101/modules/]
+/test                 (Status: 301) [Size: 330] [--> http://10.10.141.108:1337/admin_101/test/]
+Progress: 20469 / 20470 (100.00%)
+===============================================================                                                              
+Finished
+===============================================================
+
+```
+
