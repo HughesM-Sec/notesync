@@ -11,11 +11,9 @@
             "id": "0fef56ebf66431da",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Computers/CTF's/THM/Walkthrough Rooms/Enumeration & Brute Force.md",
-                "mode": "source",
-                "source": false
+                "file": "ScreenGrabs/Pasted image 20240803195109.png"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computers/CTF's/THM/Walkthrough Rooms/Enumeration & Brute Force.md",
+                "file": "ScreenGrabs/Pasted image 20240803195109.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computers/CTF's/THM/Walkthrough Rooms/Enumeration & Brute Force.md",
+                "file": "ScreenGrabs/Pasted image 20240803195109.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computers/CTF's/THM/Walkthrough Rooms/Enumeration & Brute Force.md"
+                "file": "ScreenGrabs/Pasted image 20240803195109.png"
               }
             }
           }
@@ -148,14 +146,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0fef56ebf66431da",
+  "active": "a8509b1d94994fb7",
   "lastOpenFiles": [
+    "Computers/CTF's/THM/Walkthrough Rooms/Enumeration & Brute Force.md",
     "Computers/Programming Languages/Python/Data Types and Structures/Data Types and Structures.md",
     "Computers/Programming Languages/Python/Data Types and Structures/Numbers.md",
-    "Computers/CTF's/THM/Walkthrough Rooms/Enumeration & Brute Force.md",
-    "Pasted image 20240803195109.png",
-    "Pasted image 20240803195102.png",
-    "Pasted image 20240803194952.png",
+    "ScreenGrabs/Pasted image 20240803195109.png",
+    "ScreenGrabs/Pasted image 20240803195102.png",
+    "ScreenGrabs/Pasted image 20240803194952.png",
     "Pasted image 20240803195013.png",
     "Computers/Cybersecurity/Tools/Cracking/Hydra.md",
     "ScreenGrabs/Pasted image 20240803183555.png",
