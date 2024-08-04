@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computers/Cybersecurity/CTF's/THM/Expose.md",
+                "file": "Computers/Cybersecurity/Linux/Linux Privilege Escalation/Passwords and Keys/History Files.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computers/Cybersecurity/CTF's/THM/Expose.md",
+                "file": "Computers/Cybersecurity/Linux/Linux Privilege Escalation/Passwords and Keys/History Files.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computers/Cybersecurity/CTF's/THM/Expose.md",
+                "file": "Computers/Cybersecurity/Linux/Linux Privilege Escalation/Passwords and Keys/History Files.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computers/Cybersecurity/CTF's/THM/Expose.md"
+                "file": "Computers/Cybersecurity/Linux/Linux Privilege Escalation/Passwords and Keys/History Files.md"
               }
             }
           },
@@ -153,55 +153,55 @@
       "daily-notes:Open today's daily note": false,
       "command-palette:Open command palette": false,
       "templates:Insert template": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a8509b1d94994fb7",
+  "active": "0fef56ebf66431da",
   "lastOpenFiles": [
-    "ScreenGrabs/Pasted image 20240803232900.png",
-    "Computers/Cybersecurity/Tools/sqlmap.md",
+    "Computers/Cybersecurity/Linux/Linux Privilege Escalation/Passwords and Keys/Config Files.md",
+    "Computers/Cybersecurity/Linux/Linux Privilege Escalation/Cron Jobs/File Perms.md",
+    "Computers/Cybersecurity/Linux/Linux Privilege Escalation/Cron Jobs/Cron Jobs.md",
+    "Computers/Cybersecurity/Linux/Linux Privilege Escalation/Cron Jobs/Wildcards.md",
+    "Computers/Cybersecurity/Linux/Linux Privilege Escalation/Linux Privilege Escalation.md",
+    "Computers/Cybersecurity/Linux/Linux Privilege Escalation/NFS.md",
+    "Computers/Cybersecurity/Linux/Linux Privilege Escalation/Kernel Exploits.md",
+    "Computers/Cybersecurity/Linux/Linux Privilege Escalation/Exploiting systemctl.md",
+    "Computers/Cybersecurity/Linux/Linux Privilege Escalation/Service Exploits.md",
+    "Computers/Cybersecurity/Linux/Linux Privilege Escalation/Weak File Perms/Writeable Passwd.md",
+    "Computers/Cybersecurity/Linux/Linux Privilege Escalation/Weak File Perms/Readable Shadow.md",
+    "Computers/Cybersecurity/Linux/Linux Privilege Escalation/Weak File Perms/Writeable Shadow.md",
+    "Computers/Cybersecurity/Linux/Linux Privilege Escalation/SUID SGID EXEC/SUID SGID EXEC.md",
+    "Computers/Cybersecurity/Linux/Linux Privilege Escalation/SUID SGID EXEC/Shared Object Injection.md",
+    "Computers/Cybersecurity/Linux/Linux Privilege Escalation/SUID SGID EXEC/Exec.md",
+    "Computers/Cybersecurity/Linux/Linux Privilege Escalation/SUID SGID EXEC/Environment Variables.md",
+    "Computers/Cybersecurity/Linux/Linux Privilege Escalation/SUID SGID EXEC/Abusing Shell Features.md",
+    "Computers/Cybersecurity/Linux/Linux Privilege Escalation/Sudo/Sudo.md",
+    "Computers/Cybersecurity/Linux/Linux Privilege Escalation/Sudo/Shell Escape Sequences.md",
+    "Computers/Cybersecurity/Linux/Linux Privilege Escalation/Sudo/Environment Variables.md",
+    "Computers/Cybersecurity/Linux/Linux Privilege Escalation/Cron Jobs/PATH Env Var.md",
     "Computers/Cybersecurity/CTF's/THM/Expose.md",
+    "Computers/Cybersecurity/Web Hacking/File Inclusion.md",
+    "Computers/Cybersecurity/Web Hacking/XSS/Intro to XSS.md",
+    "Computers/Cybersecurity/Web Hacking/IDOR.md",
+    "Computers/Cybersecurity/Tools/sqlmap.md",
+    "ScreenGrabs/Pasted image 20240803232900.png",
     "ScreenGrabs/Pasted image 20240803221425.png",
     "ScreenGrabs/Pasted image 20240803220753.png",
-    "Computers/Cybersecurity/Tools/Recon/Active/Nmap.md",
-    "Computers/Cybersecurity/Tools/Recon/Recon.md",
     "ScreenGrabs/Pasted image 20240803195109.png",
-    "Computers/Cybersecurity/CTF's/THM/Walkthrough Rooms/Enumeration & Brute Force.md",
-    "Computers/Programming Languages/Python/Data Types and Structures/Data Types and Structures.md",
-    "Computers/Programming Languages/Python/Data Types and Structures/Numbers.md",
     "ScreenGrabs/Pasted image 20240803195102.png",
     "ScreenGrabs/Pasted image 20240803194952.png",
     "Pasted image 20240803195013.png",
-    "Computers/Cybersecurity/Tools/Cracking/Hydra.md",
     "ScreenGrabs/Pasted image 20240803183555.png",
     "ScreenGrabs/Pasted image 20240803183718.png",
     "ScreenGrabs/Pasted image 20240803183716.png",
-    "ScreenGrabs/Pasted image 20240803183710.png",
     "Computers/Cybersecurity/CTF's/THM/Walkthrough Rooms",
-    "Computers/Cybersecurity/Vulnerabilities/Vulnerability Research.md",
-    "Computers/Cybersecurity/Cybersecurity.md",
-    "Computers/Cybersecurity/Vulnerabilities/Vulnerabilities.md",
-    "Computers/Computers.md",
     "Computers/Cybersecurity/Vulnerabilities/Untitled",
     "Computers/Cybersecurity/Vulnerabilities",
     "Computers/Cybersecurity/CTF's/HTB",
     "Computers/Cybersecurity/CTF's/THM",
     "Computers/Cybersecurity/CTF's",
-    "Computers/Cybersecurity/Web Hacking/Web Hacking.md",
-    "Computers/Cybersecurity/Web Hacking/Command Injection.md",
-    "Computers/Cybersecurity/Web Hacking/File Inclusion.md",
-    "Computers/Cybersecurity/Linux/Linux Privilege Escalation/Sudo/Sudo.md",
-    "Computers/Cybersecurity/Linux/Linux Privilege Escalation/Sudo/Environment Variables.md",
-    "Computers/Cybersecurity/Linux/Linux Privilege Escalation/SUID SGID EXEC/Environment Variables.md",
-    "Computers/Cybersecurity/Linux/Linux Privilege Escalation/SUID SGID EXEC/SUID SGID EXEC.md",
     "Untitled.canvas",
-    "Computers/Cybersecurity/Tools/Cracking/John The Ripper.md",
-    "2024-08-02.md",
-    "Computers/Cybersecurity/Tools/Recon/Active/Gobuster.md",
-    "Computers/Cybersecurity/Tools/Recon/Active/Active.md",
-    "Computers/Cybersecurity/Linux/Linux Privilege Escalation/Service Exploits.md",
-    "Computers/Cybersecurity/Linux/Linux Privilege Escalation/SUID SGID EXEC/Abusing Shell Features.md",
     "Computers/Cybersecurity/Web Hacking/Command Injection",
     "Computers/Cybersecurity/Web Hacking/XSS",
     "Computers/Cybersecurity/Web Hacking/SSRF",
