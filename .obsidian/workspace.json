@@ -157,11 +157,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a8509b1d94994fb7",
+  "active": "0fef56ebf66431da",
   "lastOpenFiles": [
+    "Computers/Cybersecurity/Web Hacking/XSS/Intro to XSS.md",
+    "Computers/Cybersecurity/Web Hacking/XSS/XSS.md",
+    "Computers/Cybersecurity/CTF's/THM/Expose.md",
     "ScreenGrabs/Pasted image 20240803232900.png",
     "Computers/Cybersecurity/Tools/sqlmap.md",
-    "Computers/Cybersecurity/CTF's/THM/Expose.md",
     "ScreenGrabs/Pasted image 20240803221425.png",
     "ScreenGrabs/Pasted image 20240803220753.png",
     "Computers/Cybersecurity/Tools/Recon/Active/Nmap.md",
@@ -177,7 +179,6 @@
     "ScreenGrabs/Pasted image 20240803183555.png",
     "ScreenGrabs/Pasted image 20240803183718.png",
     "ScreenGrabs/Pasted image 20240803183716.png",
-    "ScreenGrabs/Pasted image 20240803183710.png",
     "Computers/Cybersecurity/CTF's/THM/Walkthrough Rooms",
     "Computers/Cybersecurity/Vulnerabilities/Vulnerability Research.md",
     "Computers/Cybersecurity/Cybersecurity.md",
@@ -201,7 +202,6 @@
     "Computers/Cybersecurity/Tools/Recon/Active/Gobuster.md",
     "Computers/Cybersecurity/Tools/Recon/Active/Active.md",
     "Computers/Cybersecurity/Linux/Linux Privilege Escalation/Service Exploits.md",
-    "Computers/Cybersecurity/Linux/Linux Privilege Escalation/SUID SGID EXEC/Abusing Shell Features.md",
     "Computers/Cybersecurity/Web Hacking/Command Injection",
     "Computers/Cybersecurity/Web Hacking/XSS",
     "Computers/Cybersecurity/Web Hacking/SSRF",
