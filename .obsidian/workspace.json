@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computers/Cybersecurity/Tools/Recon/Active/Nmap.md",
+                "file": "Computers/CTF's/THM/Walkthrough Rooms/Enumeration & Brute Force.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computers/Cybersecurity/Tools/Recon/Active/Nmap.md",
+                "file": "Computers/CTF's/THM/Walkthrough Rooms/Enumeration & Brute Force.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computers/Cybersecurity/Tools/Recon/Active/Nmap.md",
+                "file": "Computers/CTF's/THM/Walkthrough Rooms/Enumeration & Brute Force.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computers/Cybersecurity/Tools/Recon/Active/Nmap.md"
+                "file": "Computers/CTF's/THM/Walkthrough Rooms/Enumeration & Brute Force.md"
               }
             }
           }
@@ -150,6 +150,28 @@
   },
   "active": "0fef56ebf66431da",
   "lastOpenFiles": [
+    "Computers/Programming Languages/Python/Data Types and Structures/Data Types and Structures.md",
+    "Computers/Programming Languages/Python/Data Types and Structures/Numbers.md",
+    "Computers/CTF's/THM/Walkthrough Rooms/Enumeration & Brute Force.md",
+    "Pasted image 20240803195109.png",
+    "Pasted image 20240803195102.png",
+    "Pasted image 20240803194952.png",
+    "Pasted image 20240803195013.png",
+    "Computers/Cybersecurity/Tools/Cracking/Hydra.md",
+    "ScreenGrabs/Pasted image 20240803183555.png",
+    "ScreenGrabs/Pasted image 20240803183718.png",
+    "ScreenGrabs/Pasted image 20240803183716.png",
+    "ScreenGrabs/Pasted image 20240803183710.png",
+    "ScreenGrabs/Pasted image 20240803183707.png",
+    "ScreenGrabs/Pasted image 20240803183701.png",
+    "Computers/Cybersecurity/Tools/Recon/Active/Nmap.md",
+    "Computers/CTF's/THM/Walkthrough Rooms",
+    "Computers/Cybersecurity/Vulnerabilities/Vulnerability Research.md",
+    "Computers/Cybersecurity/Cybersecurity.md",
+    "Computers/Cybersecurity/Vulnerabilities/Vulnerabilities.md",
+    "Computers/Computers.md",
+    "Computers/Cybersecurity/Vulnerabilities/Untitled",
+    "Computers/Cybersecurity/Vulnerabilities",
     "Computers/CTF's/HTB",
     "Computers/CTF's/THM",
     "Computers/CTF's",
@@ -160,10 +182,7 @@
     "Computers/Cybersecurity/Linux/Linux Privilege Escalation/Sudo/Environment Variables.md",
     "Computers/Cybersecurity/Linux/Linux Privilege Escalation/SUID SGID EXEC/Environment Variables.md",
     "Computers/Cybersecurity/Linux/Linux Privilege Escalation/SUID SGID EXEC/SUID SGID EXEC.md",
-    "ScreenGrabs/Pasted image 20240724210235.png",
     "Untitled.canvas",
-    "Computers/Computers.md",
-    "Computers/Cybersecurity/Tools/Recon/Active/Nmap.md",
     "Computers/Cybersecurity/Tools/Cracking/John The Ripper.md",
     "2024-08-02.md",
     "Computers/Cybersecurity/Tools/Recon/Active/Gobuster.md",
@@ -171,31 +190,12 @@
     "Computers/Cybersecurity/Linux/Linux Privilege Escalation/Service Exploits.md",
     "Computers/Cybersecurity/Linux/Linux Privilege Escalation/SUID SGID EXEC/Abusing Shell Features.md",
     "Computers/Cybersecurity/Linux/Linux Privilege Escalation/SUID SGID EXEC/Exec.md",
-    "ScreenGrabs/Pasted image 20240802145333.png",
     "Computers/Cybersecurity/Linux/Linux Privilege Escalation/SUID SGID EXEC/Shared Object Injection.md",
     "Computers/Cybersecurity/Tools/Recon/Recon.md",
-    "ScreenGrabs/Pasted image 20240802145304.png",
     "Computers/Cybersecurity/Linux/Linux Privilege Escalation/Shells.md",
-    "ScreenGrabs/Pasted image 20240802145230.png",
-    "ScreenGrabs/Pasted image 20240802145225.png",
-    "ScreenGrabs/Pasted image 20240802145217.png",
-    "ScreenGrabs/Pasted image 20240802145145.png",
-    "ScreenGrabs/Pasted image 20240802145118.png",
-    "ScreenGrabs/Pasted image 20240802145112.png",
-    "ScreenGrabs/Pasted image 20240802145104.png",
-    "Computers/Cybersecurity/Linux/Linux Privilege Escalation/NFS.md",
-    "Computers/Cybersecurity/Linux/Linux Privilege Escalation/Linux Privilege Escalation.md",
-    "Computers/Cybersecurity/Linux/Linux Privilege Escalation/Kernel Exploits.md",
-    "Computers/Cybersecurity/Tools/Tools.md",
-    "Computers/Cybersecurity/Tools/Metasploit/Metasploit DB.md",
-    "Computers/Cybersecurity/Web Hacking/Command Injection/Untitled.md",
     "Computers/Cybersecurity/Web Hacking/Command Injection",
     "Computers/Cybersecurity/Web Hacking/XSS",
     "Computers/Cybersecurity/Web Hacking/SSRF",
-    "Computers/Cybersecurity/Web Hacking",
-    "Computers/Cybersecurity/Security Principles/Untitled",
-    "Computers/Cybersecurity/Security Principles",
-    "Computers/Programming Languages/Python/Python Projects",
-    "Computers"
+    "Computers/Cybersecurity/Web Hacking"
   ]
 }
