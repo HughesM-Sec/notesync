@@ -11,9 +11,11 @@
             "id": "0fef56ebf66431da",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "ScreenGrabs/Pasted image 20240803195109.png"
+                "file": "Computers/Cybersecurity/CTF's/THM/Expose.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ScreenGrabs/Pasted image 20240803195109.png",
+                "file": "Computers/Cybersecurity/CTF's/THM/Expose.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ScreenGrabs/Pasted image 20240803195109.png",
+                "file": "Computers/Cybersecurity/CTF's/THM/Expose.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,15 +125,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ScreenGrabs/Pasted image 20240803195109.png"
+                "file": "Computers/Cybersecurity/CTF's/THM/Expose.md"
               }
             }
+          },
+          {
+            "id": "30883be3c377829a",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -146,12 +157,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a8509b1d94994fb7",
+  "active": "0fef56ebf66431da",
   "lastOpenFiles": [
-    "Computers/CTF's/THM/Walkthrough Rooms/Enumeration & Brute Force.md",
+    "Computers/Cybersecurity/Tools/sqlmap.md",
+    "Computers/Cybersecurity/CTF's/THM/Expose.md",
+    "ScreenGrabs/Pasted image 20240803221425.png",
+    "ScreenGrabs/Pasted image 20240803220753.png",
+    "Computers/Cybersecurity/Tools/Recon/Active/Nmap.md",
+    "Computers/Cybersecurity/Tools/Recon/Recon.md",
+    "ScreenGrabs/Pasted image 20240803195109.png",
+    "Computers/Cybersecurity/CTF's/THM/Walkthrough Rooms/Enumeration & Brute Force.md",
     "Computers/Programming Languages/Python/Data Types and Structures/Data Types and Structures.md",
     "Computers/Programming Languages/Python/Data Types and Structures/Numbers.md",
-    "ScreenGrabs/Pasted image 20240803195109.png",
     "ScreenGrabs/Pasted image 20240803195102.png",
     "ScreenGrabs/Pasted image 20240803194952.png",
     "Pasted image 20240803195013.png",
@@ -160,19 +177,16 @@
     "ScreenGrabs/Pasted image 20240803183718.png",
     "ScreenGrabs/Pasted image 20240803183716.png",
     "ScreenGrabs/Pasted image 20240803183710.png",
-    "ScreenGrabs/Pasted image 20240803183707.png",
-    "ScreenGrabs/Pasted image 20240803183701.png",
-    "Computers/Cybersecurity/Tools/Recon/Active/Nmap.md",
-    "Computers/CTF's/THM/Walkthrough Rooms",
+    "Computers/Cybersecurity/CTF's/THM/Walkthrough Rooms",
     "Computers/Cybersecurity/Vulnerabilities/Vulnerability Research.md",
     "Computers/Cybersecurity/Cybersecurity.md",
     "Computers/Cybersecurity/Vulnerabilities/Vulnerabilities.md",
     "Computers/Computers.md",
     "Computers/Cybersecurity/Vulnerabilities/Untitled",
     "Computers/Cybersecurity/Vulnerabilities",
-    "Computers/CTF's/HTB",
-    "Computers/CTF's/THM",
-    "Computers/CTF's",
+    "Computers/Cybersecurity/CTF's/HTB",
+    "Computers/Cybersecurity/CTF's/THM",
+    "Computers/Cybersecurity/CTF's",
     "Computers/Cybersecurity/Web Hacking/Web Hacking.md",
     "Computers/Cybersecurity/Web Hacking/Command Injection.md",
     "Computers/Cybersecurity/Web Hacking/File Inclusion.md",
@@ -188,9 +202,6 @@
     "Computers/Cybersecurity/Linux/Linux Privilege Escalation/Service Exploits.md",
     "Computers/Cybersecurity/Linux/Linux Privilege Escalation/SUID SGID EXEC/Abusing Shell Features.md",
     "Computers/Cybersecurity/Linux/Linux Privilege Escalation/SUID SGID EXEC/Exec.md",
-    "Computers/Cybersecurity/Linux/Linux Privilege Escalation/SUID SGID EXEC/Shared Object Injection.md",
-    "Computers/Cybersecurity/Tools/Recon/Recon.md",
-    "Computers/Cybersecurity/Linux/Linux Privilege Escalation/Shells.md",
     "Computers/Cybersecurity/Web Hacking/Command Injection",
     "Computers/Cybersecurity/Web Hacking/XSS",
     "Computers/Cybersecurity/Web Hacking/SSRF",
