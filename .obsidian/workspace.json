@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d35fc6b86059b194",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computers/Cybersecurity/CTF's/THM/mKingdom.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computers/Cybersecurity/Linux/Linux Privilege Escalation/Passwords and Keys/History Files.md",
+                "file": "Computers/Cybersecurity/CTF's/THM/mKingdom.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computers/Cybersecurity/Linux/Linux Privilege Escalation/Passwords and Keys/History Files.md",
+                "file": "Computers/Cybersecurity/CTF's/THM/mKingdom.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computers/Cybersecurity/Linux/Linux Privilege Escalation/Passwords and Keys/History Files.md"
+                "file": "Computers/Cybersecurity/CTF's/THM/mKingdom.md"
               }
             }
           },
@@ -157,8 +170,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0fef56ebf66431da",
+  "active": "d35fc6b86059b194",
   "lastOpenFiles": [
+    "Computers/Cybersecurity/CTF's/THM/Expose.md",
+    "Computers/Cybersecurity/CTF's/THM/mKingdom.md",
+    "conflict-files-obsidian-git.md",
+    "Computers/Cybersecurity/Linux/Linux Privilege Escalation/Passwords and Keys/History Files.md",
     "Computers/Cybersecurity/Linux/Linux Privilege Escalation/Passwords and Keys/Config Files.md",
     "Computers/Cybersecurity/Linux/Linux Privilege Escalation/Cron Jobs/File Perms.md",
     "Computers/Cybersecurity/Linux/Linux Privilege Escalation/Cron Jobs/Cron Jobs.md",
@@ -180,11 +197,7 @@
     "Computers/Cybersecurity/Linux/Linux Privilege Escalation/Sudo/Shell Escape Sequences.md",
     "Computers/Cybersecurity/Linux/Linux Privilege Escalation/Sudo/Environment Variables.md",
     "Computers/Cybersecurity/Linux/Linux Privilege Escalation/Cron Jobs/PATH Env Var.md",
-    "Computers/Cybersecurity/CTF's/THM/Expose.md",
     "Computers/Cybersecurity/Web Hacking/File Inclusion.md",
-    "Computers/Cybersecurity/Web Hacking/XSS/Intro to XSS.md",
-    "Computers/Cybersecurity/Web Hacking/IDOR.md",
-    "Computers/Cybersecurity/Tools/sqlmap.md",
     "ScreenGrabs/Pasted image 20240803232900.png",
     "ScreenGrabs/Pasted image 20240803221425.png",
     "ScreenGrabs/Pasted image 20240803220753.png",
